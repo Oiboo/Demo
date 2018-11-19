@@ -11,6 +11,7 @@ demo.state1.prototype = {
     console.log('state1');
 /* add our global button function*/
   addchangestateEventListeners();
+  game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
 },
   update: function (){},
 };

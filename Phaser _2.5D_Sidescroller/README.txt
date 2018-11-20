@@ -11,6 +11,15 @@ This template includes:-
 - Two scenes
 - Global button Configuration between scenes (Keys "1" and "2")
 
+V2
+ added 
+ 
+ - Characted Movement (Up, Down, Left, Right)
+ - Background image
+ - Animated Spritesheet
+ - Moving Camera - with deadzone
+ - Game Bounds
+ 
 
 
 
